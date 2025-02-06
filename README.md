@@ -7,9 +7,10 @@ In this repository, solutions of leetcode problems will be posted.
 
 | Serial No. | Problem Name        | Problem Number (Leetcode) | Difficulty | Problem Link                                       | GitHub Solution Link                                                     |
 |------------|---------------------|---------------------------|------------|----------------------------------------------------|--------------------------------------------------------------------------|
-| 1          | Merge Sorted Array   | 88                        | Easy       | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Solution](https://github.com/yourusername/Leetcode_Solutions/blob/main/solutions/arrays/merge_sorted_array/Solution.java) |
+| 1          | Merge Sorted Array   | 88                        | Easy       | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Solution](https://github.com/AnujBhushanTiw2685/Leetcode_Solutions/tree/460dac6558e7e7eceaae04e314be5841801f0e43/solutions/arrays/merge%20sorted%20array%20LC%2088) |
 
-> Note: Replace `yourusername` with your actual GitHub username.
+> Note: src file contains java solutions
+
 
 ### How to Use
 - **Serial No.**: A simple serial number for easy reference.
